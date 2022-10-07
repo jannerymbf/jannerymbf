@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I'm Jannery 👋
 
-<!--
-**jannerymbf/jannerymbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End development student at Laboratoria longing 
+to be a front-end developer jr in a couple of months.
+In parallel, I'm an English teacher and a lifelong learner.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working with JavaScript, CSS, HTML, Figma.
+- 🌱 I’m currently learning Angular.
+- 👯 I’m looking to collaborate with everybody.
+- 📫 How to reach me: jannerymai@gmail.com | Linkedin: https://www.linkedin.com/in/jannery-brice%C3%B1o/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love french fries.
